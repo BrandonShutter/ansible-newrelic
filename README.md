@@ -42,7 +42,7 @@ The variables that can be passed to this role and a brief description about them
 
 ## Examples
 
-### Paramaterized Role
+### Parameterized Role
 
     ---
     - hosts: all
